@@ -1,0 +1,47 @@
+{
+	"profile":{
+		"img":"ntr.jpg",
+		"name":"amrutha",
+		"roll":"1283",
+		"place":"guntur",
+		"des":"student"
+	},
+	"career":{
+		"info":"i seek a position where i can explore my talents for the benifits of the organisation"
+	},
+	"education":[{
+		"sno":"1",
+		"degree":"b tech",
+		"institute":"vigana nirula",
+		"per":"80",
+		"yop":"2021"
+	},
+	 {
+	 	"sno":"2",
+	 	"degree":"intermediate",
+		"institute":"sri chaitanya",
+		"per":"80",
+		"yop":"2017"
+	},
+	{
+	"sno":"3",
+	 "degree":"intermediate",
+		"institute":"sri chaitanya",
+		"per":"80",
+		"yop":"2015"
+	}	 
+   
+
+ ],
+ "languages":[
+ 	{
+ 		"info":"english"
+ 	},
+ 	{
+ 		"info":"telugu"
+ 	},
+    {
+ 		"info":"hindhi"
+ 	}
+ ]	
+}
